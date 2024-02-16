@@ -4,7 +4,9 @@
 
 👀 I’m interested in Data science, Marine ecology and coral reefs. Currently looking for a master thesis in my core areas. 
 
-📫 How to reach me: adriano.fossati@netplus.ch 
+📫 How to reach me:
+adriano.fossati@netplus.ch 
+a.fossati@qut.edu.au
 
 <!---
 AdrianoGuidoF/AdrianoGuidoF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
