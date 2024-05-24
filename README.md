@@ -1,8 +1,10 @@
 # Adriano Guido Fossati
 
-👋 Hi, I’m Adriano @AdrianoGuidoF. I graduated in biology at the University of Lausanne, CH. Currently in post-graduation studies in marine biology at the University of Algarve, PT. 
+👋 Hi, I’m Adriano G. Fossati, I graduated in biology at the University of Lausanne, Switzerland. I'm currently in post-graduation studies in marine biology at the University of Algarve, Portugal, and I am doing my master thesis as a visitor researcher at QUT in Brisbane, Australia. 
 
-👀 I’m interested in Data science, Marine ecology and coral reefs. Currently looking for a master thesis in my core areas. 
+👀 I’m interested in Data science, Marine ecology and coral reefs. 
+
+My current focus of research are reef fishes along the eastern coast of Australia, their ecology, and their tropicalisation due to climate change. 
 
 📫 How to reach me:
 adriano.fossati@netplus.ch 
